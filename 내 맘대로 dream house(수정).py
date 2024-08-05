@@ -23,7 +23,7 @@ class Furniture:
 
 class HouseDesignProgram:
     def __init__(self):
-        self.api_key = 'AIzaSyD5_JdX_a7qntiupmcNxSu6Vb0hP4IN1aU'  # 구글 API 키 추가
+        self.api_key = 'AIzaSyD5_JdX_a7qntiupmcNxSu6Vb0h*******'  # 구글 API 키 추가
         self.furnitures = [
             Furniture("소파", 300),
             Furniture("테이블", 150),
